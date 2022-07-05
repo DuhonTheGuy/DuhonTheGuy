@@ -4,13 +4,9 @@ No, it's not my real name. I generally don't share too much online, even though 
 
 Here is my description:
 
-- I have been coding for about 7 years, though the date is uncertain.
+- I have been coding since about 2014, though the date is uncertain.
 - I live in Brazil, even though my preferred language is English instead of Portuguese.
-- I code as a side gig, but I sill want to one day make this more of a full time thing.  
+- I am a Computer Science student.
 
-The languages I generally code with are Python and sometimes Java, since they are the ones I am most confortable with. My favorite projects are the following:  
-
-1. [RPG Generator](https://github.com/DuhonTheGuy/RPG-Generator)
-2. That's it
-3. For real I don't have any more favorites
+The languages I generally code with are Python and sometimes C, since they are the ones I am most confortable with.
 
