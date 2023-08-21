@@ -8,5 +8,5 @@ Here is my description:
 - I live in Brazil, even though my preferred language is English instead of Portuguese.
 - I am a Computer Science student.
 
-The languages I generally code with are Python and sometimes C, since they are the ones I am most confortable with.
+The languages I generally code with are Python and sometimes C, since they are the ones I am most comfortable with.
 
